@@ -1,0 +1,48 @@
+.pathakji{
+  width: 1800px;
+  height: 400px;
+}
+
+.one{
+  margin-right: 60px;
+}
+.headline{
+  background: red;
+  width: 160px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 37px;
+  text-align: center;
+  color: white;
+}
+.list{
+  margin-left: 12px;
+  }
+
+.tw{
+  background: yellow;
+  width: 160px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 37px;
+  text-align: center;
+  color: white;
+}
+.lo{
+  background: green;
+  width: 160px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 37px;
+  text-align: center;
+  color: white;
+}
+.gulshan{
+  background: blue;
+  width: 260px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 37px;
+  text-align: center;
+  color: white;
+}
